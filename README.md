@@ -1,3 +1,4 @@
 # GST1
 
-## Cabecera primaria 
+## cabecera secundaria 
+
